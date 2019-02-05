@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "onFocusChange",
+    "files.trimTrailingWhitespace": true,
+    "editor.tabSize": 2,
+    "editor.autoClosingBrackets": "always",
+    "editor.autoClosingQuotes": "always",
+    "editor.autoSurround": "languageDefined",
+    "editor.dragAndDrop": false,
+    "editor.formatOnPaste": true,
+    "explorer.openEditors.visible": 6,
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "workbench.colorTheme": "Tomorrow Night Blue",
+}
